@@ -1827,7 +1827,7 @@
 }
 
 .u-section-9 .u-sheet-1 {
-  min-height: 1634px;
+  min-height: 1138px;
   padding: 30px 50px;
 }
 
@@ -1835,7 +1835,7 @@
   width: 640px;
   height: auto;
   min-height: 974px;
-  margin: 45px auto 46px;
+  margin: 45px auto 60px;
 }
 
 @media (max-width: 1199px) {
@@ -1845,7 +1845,7 @@
   }
 
   .u-section-9 .u-sheet-1 {
-    min-height: 1033px;
+    min-height: 720px;
   }
 }
 
