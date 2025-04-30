@@ -47897,13 +47897,23 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 @media (max-width: 575px) {
+  .u-footer .u-sheet-1 {
+    min-height: 142px;
+  }
+
+  .u-footer .u-text-1 {
+    margin-top: 10px;
+  }
+
   .u-footer .u-text-2 {
-    margin-right: 104px;
+    width: auto;
+    margin-top: 10px;
+    margin-left: 48px;
   }
 
   .u-footer .u-text-3 {
-    margin-top: 20px;
-    margin-bottom: 41px;
+    margin-top: 10px;
+    margin-bottom: 33px;
   }
 }
 
